@@ -1,2 +1,11 @@
-hello world 
-and Thank U for it!
+一个简单而傻瓜的gif生成器
+需要安装pillow库和imageio库
+这个傻瓜式的（各种意义上的）生成器被包含在一个文件夹中，文件夹中含有这样一些文件：
+1.python主程序
+2.一个叫做del.bat的批处理脚本
+3.几张gif源文件
+4.readme文本文档
+用法：  1.运行gif_creator.py
+       2.输入选择的表情包序号
+       3.依次输入要显示的话
+       4。生成的图片在文件夹下
