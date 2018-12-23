@@ -69,7 +69,7 @@ def clear_temp():#清理临时文件
     
         
 print("请选择想要制作的表情包：")
-print("1)王境泽打脸 \n2)有钱为所欲为\n你的输入：")
+print("1)王境泽打脸 你的输入：")
 flag = input()
 
 lists = []#临时文件的列表
